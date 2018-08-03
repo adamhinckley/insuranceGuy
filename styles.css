@@ -1,0 +1,50 @@
+body {
+    font-family: 'Heebo', sans-serif;
+    color: rgb(44, 131, 212)  
+}
+
+h1 {
+    color: rgb(44, 131, 212);
+    font-size: 1.6em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 50%;
+    padding-bottom: 15px;
+}
+
+.topBackground {
+    background-color: rgb(255, 189, 65);
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+
+.icons {
+    font-size: 5em;
+    text-align: center;
+    color: rgb(44, 131, 212)
+}
+
+.features {
+    text-align: center;
+}
+
+.testimonials {
+    font-family: 'Gloria Hallelujah', cursive;
+    margin: 1em;
+    color: rgb(44, 131, 212)
+}
+
+.name {
+    color: rgb(44, 131, 212)    
+}
+
+#orange {
+    background-color: rgb(255, 189, 65);
+    color: white;
+    padding-bottom: 5px;
+}
